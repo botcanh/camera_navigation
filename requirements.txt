@@ -9,3 +9,4 @@ HOW TO RUN THIS WORKSPACE
 2. ros2 launch maze_bot room_camera.launch.py :Run the gazebo world.
 3. ros2 run maze_bot maze_solver
 4. Click the postion that the robot need to move to.
+5. ros2 run maze_bot robot_vision: to view robot's camera. 
