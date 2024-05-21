@@ -1,0 +1,11 @@
+REQUIREMENTS
+1. ROS2-HUMBLE
+2. OPENCV
+3. TURTLEBOT
+4. GAZEBO
+
+HOW TO RUN THIS WORKSPACE
+1. source into the ws.
+2. ros2 launch maze_bot room_camera.launch.py :Run the gazebo world.
+3. ros2 run maze_bot maze_solver
+4. Click the postion that the robot need to move to.
